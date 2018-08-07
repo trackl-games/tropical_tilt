@@ -20,3 +20,5 @@ planned.
    * I never updated the skins of the players from really generic balls
    * I never finished any of the levels or bosses originally planned
      * The first level (aside from tutorial) can still be found from the settings menu
+* A note on sprites: It was until halfway through development I realized that making crappy sprites was tedius, that's when
+I began implementing having the computer draw squares instead of me. Ultimately, I think it gives it a nice look. 
