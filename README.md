@@ -2,7 +2,10 @@
 Source files for an android game developed with GMS. Also contains Android APK. Feel free to use the files for
 entertainment or educational purposes. The game is published on ![Google Play](https://www.google.com).
 
-INSERT IMAGES
+![title](images/title.png)
+![main menu](images/mainmenu.png)
+![intense](images/intense.png)
+![time](images/time2.png)
 
 ## Use
 To use the duo_tilt.gmx you must have some form of Game Maker Studio 1.
