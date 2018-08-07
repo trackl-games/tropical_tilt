@@ -8,7 +8,7 @@ entertainment or educational purposes. The game is published on ![Google Play](h
 ![time](images/time2.png)
 
 ## Use
-To use the duo_tilt.gmx you must have some form of Game Maker Studio 1.
+To use the `duo_tilt.gmx` you must have some form of Game Maker Studio 1.
 The game is designed to also work with windows (with some extra features), so recompiling for PC should work fine. 
 
 ## Notes
