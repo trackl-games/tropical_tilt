@@ -1,6 +1,6 @@
 # Tropical Tilt
 Source files for an android game developed with GMS. Also contains Android APK. Feel free to use the files for
-entertainment or educational purposes. The game is published on ![Google Play](https://www.google.com).
+entertainment or educational purposes. The game is published on ![Google Play](https://play.google.com/store/apps/details?id=com.HockoTech.duo_tilt).
 
 ![title](images/title.png)
 ![main menu](images/mainmenu.png)
